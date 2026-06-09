@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Classy!;+Wanna+know+about+me?;+Check+out+my+projects.;+Wanna+message+me?;+DM+me+on+Discord!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Deyv" />
 </h1>
 
-<h3 align="center">A passionate software developer from India, i have experience in Java, Kotlin, Javascript, Typescript, PHP, CSS, Python, Swift, C, HTML and Ruby!</h3>
+<h3 align="center">A passionate software developer from India!</h3>
 <img width=100 align="center" src="https://komarev.com/ghpvc/?username=ClassyCoder1&abbreviated=true&style=flat&color=blue" />
 <br/>
 
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
     <code><img src="https://skillicons.dev/icons?i=gitlab,vscode,github,git" /></code>
-    <code><img src="https://skillicons.dev/icons?i=html,css,nodejs,python,javascript,typescript,java,php,ruby,kotlin,nextjs,swift,c,mysql,mongodb" /></code>
+    <code><img src="https://skillicons.dev/icons?i=html,css,nodejs,python,javascript,typescript,java,kotlin,nextjs,mysql,mongodb" /></code>
 <br>
 </div>
 
@@ -57,14 +57,7 @@
 </div>
 <br/>
 <br>
-<div align="center">
-    <img width=390 align="center" src="https://github-readme-stats-classycoder1.vercel.app/api/pin/?username=VeyzenClient&repo=veyzenclient&theme=dark&hide_border=true&show_owner=true" />
-</div>
 <br/>
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/classycoder' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
