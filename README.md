@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India!</h3>
-<img width=100 align="center" src="https://komarev.com/ghpvc/?username=deyvv16&abbreviated=true&style=flat&color=blue" />
+<img width=100 align="center" src="https://komarev.com/ghpvc/?username=deyv16&abbreviated=true&style=flat&color=blue" />
 
 <h3 align="center">How to reach me?</h4>
  
@@ -27,7 +27,7 @@
 <div align="center">
   <h2>My Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deyvv16/deyvv16/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deyv16/deyv16/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <hr/>
@@ -35,9 +35,9 @@
 <h2 align="center">My GitHub Stats</h2>
 <br>
 <div align=center>
-    <img width="390" src="https://github-readme-stats-classycoder1.vercel.app/api?username=deyvv16&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" alt="readme stats" />
+    <img width="390" src="https://github-readme-stats-classycoder1.vercel.app/api?username=deyv16&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dark" alt="readme stats" />
   <br/>
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=deyvv16&theme=dark&hide_border=true" alt="readme stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=deyv16&theme=dark&hide_border=true" alt="readme stats" />
   <br/>
-    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=deyvv16&layout=compact&langs_count=50&hide_border=true&theme=dark" />
+    <img width=390 src="https://github-readme-stats-classycoder1.vercel.app/api/top-langs/?username=deyv16&layout=compact&langs_count=50&hide_border=true&theme=dark" />
 </div>
